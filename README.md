@@ -4,7 +4,7 @@
 There are two $500 dollar prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $500 prize goes to the person/team who finds the most issues with Jackbox.
 
 ##Rules of the Challenge:
-1. You must enter the contest by September 15, 2015.  
+1. You must enter the challenge by September 15, 2015.  
 * Entries will be accepted via an email stating your intent and sent to: __service\_delivered@ymail.com___
 * You MUST HAVE and include your __GitHub account__ in the body of the email
 * There will be only one entry per person/team matched to the email-address/github-account of the entry.
