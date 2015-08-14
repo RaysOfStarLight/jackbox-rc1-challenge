@@ -45,8 +45,6 @@ There are two $500 dollar prizes.  The first $500 dollar prize goes to the perso
                                                             
 * It is possible for the same person/team to win both categories.
 
-###Note: We reserve the right to change any part of this challenge at any time and without notice.
-
 ##Deadline:
 The deadline for the challenge, that is the time by which all deliverables and issues must be submitted, is November 15, 2015.
 
@@ -58,7 +56,8 @@ Payment to the winner will be done using the http://escrow.com service.  For thi
 
 ##Disclaimer
 
-IN NO EVENT SHALL THE ORGANIZERS OF THIS CHALLENGE BE MADE
+WE RESERVE THE RIGHT TO CHANGE ANY PART OF THIS CHALLENGE AT ANY TIME AND 
+WITHOUT NOTICE.  IN NO EVENT SHALL THE ORGANIZERS OF THIS CHALLENGE BE MADE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THIS CHALLENGE OR THE USE OR OTHER DEALINGS WITH THIS CHALLENGE.
