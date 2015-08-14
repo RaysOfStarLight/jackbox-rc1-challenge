@@ -5,7 +5,7 @@ There are two $500 dollar prizes.  The first $500 dollar prize goes to the perso
 
 ##Rules of the Challenge:
 1. You must enter the challenge by September 15, 2015.  
-* Entries will be accepted via an email stating your intent and sent to:  __service\_delivered@ymail.com___
+* Entries will be accepted via an email stating your intent and sent to:  **service\_delivered@ymail.com**
     * This can be as simple as:
         Please enter my github account ########## into the Jackbox challenge.
 * You MUST HAVE and include your __GitHub account__ in the body of the email
