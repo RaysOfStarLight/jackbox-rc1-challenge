@@ -38,8 +38,10 @@ There are two $500 dollar prizes.  The first $500 dollar prize goes to the perso
           * The organizers are the only ones who can determine whether an issue is real or part of the design of Jackbox
           * If you submit the same issue more than once you will only be credited once
           * The organizers are the only ones who can determine whether an issue is a repeat issue
-          * Repeated issues can and will happen between different participants, but those do not affect your individual count
-          * If your issue is unique in your individual count, you will be credited for it
+          * Repeated issues can and will happen between different participants, but we will only have one entry per issue
+          * Issues must be unique in the overall challenge 
+          
+          (The reason for this is participants could take everybody else's issues, add one, and attempt to win in this way)
       * To win:
           1. You must have the greatest number of individually unique (non-repeated) issues
           * Your issues must be verifiable with actual source code
