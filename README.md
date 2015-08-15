@@ -1,13 +1,14 @@
 ##Title: Jackbox RC1 Challenge
 
 ##Prizes:
-There are two $500 dollar prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $500 prize goes to the person/team who finds the most issues with Jackbox.
+There are two prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $300 prize goes to the person/team who finds the most issues with Jackbox.
 
 ##Rules of the Challenge:
 1. You must enter the challenge by September 15, 2015.  
 * Entries will be accepted via an email stating your intent and sent to:  **service_delivered@ymail.com**
     * This can be as simple as:
-        Please enter my github account ########## into the Jackbox challenge.
+        
+        Please enter my github account #___________________ into the Jackbox challenge.
 * You MUST HAVE and include your __GitHub account__ in the body of the email
 * There will be only one entry per person/team matched to the email-address/github-account of the entry.
 * If we do not have an email stating your intent and matching a GitHub account you will not be entered.
@@ -18,9 +19,9 @@ There are two $500 dollar prizes.  The first $500 dollar prize goes to the perso
   * the selection of the ultimate winners and the winners
   * the amount and the payment form of the prize money
 * Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
-* The are two parts to this challenge (each part has a $500 dollar prize):
+* The are two parts to this challenge (each part has a prize):
 
-  * Part 1: build the most complete and innovative application using Jackbox
+  * Part 1 ($500 dollars): Build the most complete and innovative application using Jackbox
       * criteria for this category will be decided solely by the organizers of the challenge, but can include:
           1. How well it showcases the use of Jackbox to complete the task
           2. How does it compare to the use of other technologies
@@ -31,7 +32,7 @@ There are two $500 dollar prizes.  The first $500 dollar prize goes to the perso
           1. Your project must, at the very least, meet all or part of the above criteria
           * It must be a functioning deliverable (we must be able to execute/run your code)
           * If your deliverable is not working you will not win
-  * Part 2: find the most number of issues with Jackbox
+  * Part 2 ($300 dollars): Find the most number of issues with Jackbox
       * criteria for this category will be decided solely by the organizers of the challenge, but can include:
           1. How many issues you submit to the LouHenryAlvarez/jackbox-rc1-challenge repository
           * Whether these are considered "real" issues or part of the design of Jackbox
