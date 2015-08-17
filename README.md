@@ -23,7 +23,7 @@ There are two prizes.  The first $500 dollar prize goes to the person/team who d
 
   * Part 1 ($500 dollars): Build the most complete and innovative application using Jackbox
       * criteria for this category will be decided solely by the organizers of the challenge, but can include:
-          1. How well it showcases the use of Jackbox to complete the task
+          1. How well it showcases the use of <a href='http://jackbox.us'>Jackbox</a> to complete the task
           2. How does it compare to the use of other technologies
           3. The size of the code
           4. The subject matter of the application
