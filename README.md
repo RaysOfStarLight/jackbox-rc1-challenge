@@ -6,10 +6,10 @@ There are two prizes.  The first $500 dollar prize goes to the person/team who d
 ##Rules of the Challenge:
 1. You must enter the challenge by September 15, 2015.  
 * Entries will be accepted via an email stating your intent and sent to:  **service_delivered@ymail.com**
+* You MUST HAVE and include your __GitHub account__ in the body of the email
     * This can be as simple as:
         
         Please enter my github account #___________________ into the Jackbox challenge.
-* You MUST HAVE and include your __GitHub account__ in the body of the email
 * There will be only one entry per person/team matched to the email-address/github-account of the entry.
 * If we do not have an email stating your intent and matching a GitHub account you will not be entered.
 * Entry into the challenge via any other means will not be accepted
@@ -21,28 +21,30 @@ There are two prizes.  The first $500 dollar prize goes to the person/team who d
 * Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
 * The are two parts to this challenge (each part has a prize):
 
-  * Part 1 ($500 dollars): Build the most complete and innovative application using Jackbox
+  * Part 1 ($500 dollars): Build the most interesting application using Jackbox
       * criteria for this category will be decided solely by the organizers of the challenge, but can include:
-          1. How well it showcases the use of Jackbox to complete the task
-          2. How does it compare to the use of other technologies
-          3. The size of the code
-          4. The subject matter of the application
-          5. Great consideration will be given to applications in DSLs, machine learning, and the various web technologies
+          1. The subject matter of the application
+          * The size and quality of the code
+          * Great consideration will be given to applications in DSLs, machine learning, and the various web technologies
+          
+          **Note: We are not looking for ground breaking applications here, just something that is interesting and showcases your understanding of what is possible with Jackbox.**
+          
       * To win:
           1. Your project must, at the very least, meet all or part of the above criteria
-          * It must be a functioning deliverable (we must be able to execute/run your code)
+          * It must be a functioning deliverable (we must be able to execute and produce the expected output)
           * If your deliverable is not working you will not win
+          
   * Part 2 ($300 dollars): Find the most number of issues with Jackbox
       * criteria for this category will be decided solely by the organizers of the challenge, but can include:
           1. How many issues you submit to the LouHenryAlvarez/jackbox-rc1-challenge repository
           * Whether these are considered "real" issues or part of the design of Jackbox
-          * The organizers are the only ones who can determine whether an issue is real or part of the design of Jackbox
           * If you submit the same issue more than once you will only be credited once
-          * The organizers are the only ones who can determine whether an issue is a repeat issue
-          * Repeated issues can and will happen between different participants, but we will only have one entry per issue
+          * Repeated issues can and will happen between different participants, but
           * Issues must be unique in the overall challenge 
           
           (The reason for this is participants could take everybody else's issues, add one, and attempt to win in this way)
+          
+          **Note: The organizers are the only ones who can determine whether an issue is real or part of the design of Jackbox, and whether an issue is a repeat issue.**
       * To win:
           1. You must have the greatest number of individually unique (non-repeated) issues
           * Your issues must be verifiable with actual source code
@@ -62,7 +64,9 @@ Payment to the winner will be done using the http://escrow.com service.  For thi
 ##Disclaimer
 
 WE RESERVE THE RIGHT TO CHANGE ANY PART OF THIS CHALLENGE AT ANY TIME AND 
-WITHOUT NOTICE.  IN NO EVENT SHALL THE ORGANIZERS OF THIS CHALLENGE BE MADE
+WITHOUT NOTICE.  
+
+IN NO EVENT SHALL THE ORGANIZERS OF THIS CHALLENGE BE MADE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THIS CHALLENGE OR THE USE OR OTHER DEALINGS WITH THIS CHALLENGE.
