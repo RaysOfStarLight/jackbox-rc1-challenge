@@ -4,21 +4,20 @@
 There are two prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $300 prize goes to the person/team who finds the most issues with <a href='http://jackbox.us'>Jackbox</a>.
 
 ##Rules of the Challenge:
-1. You must enter the challenge by September 15, 2015.  
+1. Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
+* You must enter the challenge by September 15, 2015.  
 * Entries will be accepted via an email stating your intent and sent to:  **service_delivered@ymail.com**
 * You MUST HAVE and include your __GitHub account__ in the body of the email
     * This can be as simple as:
         
         Please enter my github account #___________________ into the Jackbox challenge.
-* There will be only one entry per person/team matched to the email-address/github-account of the entry.
-* If we do not have an email stating your intent and matching a GitHub account you will not be entered.
+* If we do not have an email stating your intent with the GitHub account you intend to use you will not be entered.
 * Entry into the challenge via any other means will not be accepted
-* Entry into the challenge via the method above will mean your automatic and unconditional acceptance of all the rules of this challenge, and also including but not limited to the following:
+* Entry into the challenge via the method above will mean your automatic and unconditional acceptance of all the rules of this challenge including but not limited to the following:
   * the criteria of the challenge
   * the parties and process to selecting the winner
   * the selection of the ultimate winners and the winners
   * the amount and the payment form of the prize money
-* Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
 * The are two parts to this challenge (each part has a prize):
 
   * Part 1 ($500 dollars): Build the most interesting application using Jackbox
