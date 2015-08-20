@@ -1,7 +1,7 @@
 ##Title: Jackbox RC1 Challenge
 
 ##Prizes:
-There are two prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $300 prize goes to the person/team who finds the most issues with Jackbox.
+There are two prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $300 prize goes to the person/team who finds the most issues with <a href='http://jackbox.us'>Jackbox</a>.
 
 ##Rules of the Challenge:
 1. You must enter the challenge by September 15, 2015.  
