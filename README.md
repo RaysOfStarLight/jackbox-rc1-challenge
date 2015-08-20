@@ -5,7 +5,7 @@ There are two prizes.  The first $500 dollar prize goes to the person/team who d
 
 ##Rules of the Challenge:
 1. Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
-* You must enter the challenge by September 15, 2015.  
+* You must enter the challenge and submit your code before midnight on the deadline of the challenge. 
 * Entries will be accepted via an email stating your intent and sent to:  **service_delivered@ymail.com**
 * You MUST HAVE and include your __GitHub account__ in the body of the email. This can be as simple as:
         
