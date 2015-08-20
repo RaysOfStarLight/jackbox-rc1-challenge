@@ -1,17 +1,17 @@
 ##Title: Jackbox RC1 Challenge
 
 ##Prizes:
-There are two prizes.  The first $500 dollar prize goes to the person/team who develops the most complete and innovative application with Jackbox.  The second $300 prize goes to the person/team who finds the most issues with <a href='http://jackbox.us'>Jackbox</a>.
+There are two prizes.  The first $500 dollar prize goes to the participant who develops the most interesting application with Jackbox.  The second $300 prize goes to the participant who finds the most issues with <a href='http://jackbox.us'>Jackbox</a>.
 
 ##Rules of the Challenge:
 1. Deliverables for the challenge (source code) will be accepted via pull requests onto https://github.com/LouHenryAlvarez/jackbox-rc1-challenge
-* You must enter the challenge and submit your code before midnight on the deadline of the challenge. 
+* You must be entered into the challenge and submit your code before midnight on the deadline of the challenge 
 * Entries will be accepted via an email stating your intent and sent to:  **service_delivered@ymail.com**
 * You MUST HAVE and include your __GitHub account__ in the body of the email. This can be as simple as:
         
-        Please enter my github account #___________________ into the Jackbox challenge.
+        Please enter github account #___________________ into the Jackbox challenge.
         
-* If we do not have an email stating your intent with the GitHub account you intend to use you will not be entered.
+* If we do not have an email stating your intent with the GitHub account you intend to use you will not be entered
 * Entry into the challenge via any other means will not be accepted
 * Entry into the challenge via the method above will mean your automatic and unconditional acceptance of all the rules of this challenge also including but not limited to the following:
   * the criteria of the challenge
@@ -49,7 +49,7 @@ There are two prizes.  The first $500 dollar prize goes to the person/team who d
           * Your issues must be verifiable with actual source code
           * If we cannot reproduce your issue after the third attempt while working with you and actual code we will dismiss the issue  
                                                             
-* It is possible for the same person/team to win both categories.
+* It is possible for the same participant to win both categories
 
 ##Deadline:
 The deadline for the challenge, that is the time by which all deliverables and issues must be submitted, is November 15, 2015.
@@ -58,7 +58,7 @@ The deadline for the challenge, that is the time by which all deliverables and i
 Selection of the winner will done by November 22, 2015 from among all the participants entered into the challenge using only the procedure described in the Challenge Rules from above.  
 
 ##Escrow:
-Payment to the winner will be done using the http://escrow.com service.  For this you will need to provide your payment information to the service so that the transaction can be legally executed.
+Payment to the winner will be done using the http://escrow.com service.  For this the winning participant will need to provide the payment information to the service so that the transaction can be legally executed.
 
 ##Disclaimer
 
